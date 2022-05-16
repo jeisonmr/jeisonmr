@@ -55,26 +55,7 @@
       alt="wordpress"
       width="40"
       height="40"
-    /><img
-      src="https://cdn.worldvectorlogo.com/logos/woocommerce.svg"
-      alt="woocommerce"
-      width="40"
-      height="40"
-    /><img
-      src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/109_Elementor_logo_logos-512.png"
-      alt="elementor"
-      width="40"
-      height="40"
-    />
+    /><img src="https://cdn.worldvectorlogo.com/logos/woocommerce.svg" alt="woocommerce"width="40"height="40"/><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/109_Elementor_logo_logos-512.png"
+      alt="elementor"width="40"height="40"/>
     <h3 align="left">Tools:</h3>
-    <img
-      src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
-      alt="figma"
-      width="40"
-      height="40"
-    /><img
-      src="https://cdn.worldvectorlogo.com/logos/adobe-xd-2.svg"
-      alt="xd"
-      width="40"
-      height="40"
-    />
+    <imgs rc="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"alt="figma"width="40"height="40"/><img src="https://cdn.worldvectorlogo.com/logos/adobe-xd-2.svg"alt="xd"width="40"height="40"/>
