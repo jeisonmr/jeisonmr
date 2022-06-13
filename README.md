@@ -1,6 +1,6 @@
   <h1 align="center">Hola 👋, soy Jeison Muñoz</h1>
     <h3 align="center">
-      Un desarrollador frontend junior apasionado. Soy de Colombia  <img width="20px" src="https://cdn-icons-png.flaticon.com/512/203/203041.png" atl="colombia flag">
+      Un desarrollador frontend apasionado. Soy de Colombia  <img width="20px" src="https://cdn-icons-png.flaticon.com/512/203/203041.png" atl="colombia flag">
     </h3>
     <hr>
     <h3 align="left">Lenguages:</h3>
