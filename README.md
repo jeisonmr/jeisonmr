@@ -1,7 +1,9 @@
-<h1 align="center">Hola 👋, soy Jeison Muñoz</h1>
-<h3 align="center">
-  Un desarrollador front end  de Colombia  <img width="20px" src="https://cdn-icons-png.flaticon.com/512/203/203041.png" atl="colombia flag">
-</h3>
+<img
+src="https://i.postimg.cc/Bn8RvY7x/banner.gif"
+alt="banner"
+width="100%"
+height="50% "
+/>
 <hr>
 <h3 align="left">» Lenguages «</h3>
 <p align="left">
@@ -79,8 +81,12 @@
   alt="Wordpress"
   width="40"
   height="40"
-/>
-<img
+/>   <img
+  src="https://cdn.worldvectorlogo.com/logos/woocommerce.svg"
+  alt="WooCommerce"
+  width="40"
+  height="40"
+/>   <img
   src="https://cdn-icons-png.flaticon.com/512/5968/5968699.png"
   alt="Elementor"
   width="40"
@@ -89,12 +95,6 @@
 <img
   src="https://www.cursowp-online.com//wp-content/uploads/2019/09/logo-divi-512px.png"
   alt="Divi"
-  width="40"
-  height="40"
-/>
-<img
-  src="https://cdn.worldvectorlogo.com/logos/woocommerce.svg"
-  alt="WooCommerce"
   width="40"
   height="40"
 />
