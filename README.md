@@ -3,7 +3,7 @@
   Un desarrollador front end  de Colombia  <img width="20px" src="https://cdn-icons-png.flaticon.com/512/203/203041.png" atl="colombia flag">
 </h3>
 <hr>
-<h3 align="left">Lenguages:</h3>
+<h3 align="left">» Lenguages «</h3>
 <p align="left">
       <img
       src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png"
@@ -30,7 +30,7 @@
         height="40"
       />
 </p>
-<h3 align="left">Framework:</h3>
+<h3 align="left">» Framework «</h3>
  <p align="left">
 <img
   src="https://cdn.worldvectorlogo.com/logos/react-2.svg"
@@ -45,7 +45,7 @@
   height="40"
 />
 </p>
-<h3 align="left">Devops:</h3>
+<h3 align="left">» Devops «</h3>
  <p align="left">
 <img
   src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"
@@ -72,7 +72,7 @@
 />
 
 </P>
-<h3 align="left">CMS:</h3>
+<h3 align="left">» C M S «</h3>
  <p align="left">
 <img
   src="https://cdn.worldvectorlogo.com/logos/wordpress-icon-1.svg"
@@ -97,7 +97,7 @@
   height="40"
 />
 </p>
-<h3 align="left">Management:</h3>
+<h3 align="left">» Management «</h3>
  <p align="left">
 <img
   src="https://cdn.worldvectorlogo.com/logos/jira-3.svg"
@@ -111,7 +111,7 @@
   height="40"
 />
 </p>
-<h3 align="left">Design:</h3>
+<h3 align="left">» Design «</h3>
  <p align="left">
 <img
   src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
