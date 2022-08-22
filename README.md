@@ -79,12 +79,8 @@
   alt="Wordpress"
   width="40"
   height="40"
-/>   <img
-  src="https://cdn.worldvectorlogo.com/logos/woocommerce.svg"
-  alt="WooCommerce"
-  width="40"
-  height="40"
-/>   <img
+/>
+<img
   src="https://cdn-icons-png.flaticon.com/512/5968/5968699.png"
   alt="Elementor"
   width="40"
@@ -93,6 +89,12 @@
 <img
   src="https://www.cursowp-online.com//wp-content/uploads/2019/09/logo-divi-512px.png"
   alt="Divi"
+  width="40"
+  height="40"
+/>
+<img
+  src="https://cdn.worldvectorlogo.com/logos/woocommerce.svg"
+  alt="WooCommerce"
   width="40"
   height="40"
 />
