@@ -61,7 +61,7 @@ height="50% "
   height="40"
 />
 <img
-  src="https://cdn-icons-png.flaticon.com/512/3291/3291695.png"
+  src="https://cdn3d.iconscout.com/3d/free/preview/github-6343397-5221066@0.png?w=0&h=700&f=jpeg"
   alt="GitHub"
   width="40"
   height="40"
