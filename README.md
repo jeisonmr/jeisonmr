@@ -61,7 +61,7 @@ height="50% "
   height="40"
 />
 <img
-  src="https://cdn3d.iconscout.com/3d/free/preview/github-6343397-5221066@0.png?w=0&h=700&f=jpeg"
+  src="https://cdn.iconscout.com/icon/free/png-256/developer-tool-1889493-1597553.png"
   alt="GitHub"
   width="40"
   height="40"
