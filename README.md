@@ -1,9 +1,10 @@
-<img
+<!-<img
 src="https://i.postimg.cc/Bn8RvY7x/banner.gif"
 alt="banner"
 width="100%"
 height="50% "
-/>
+/>->
+<h1>Hello everyone! I'm Jeison 👋</h1>
 <hr>
 <h3 align="left">» Lenguages «</h3>
 <p align="left">
