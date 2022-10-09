@@ -67,7 +67,7 @@ height="50% "
   height="40"
 />
 <img
-  src="https://static.macupdate.com/products/35643/m/sourcetree-logo.png?v=1658322337"
+  src="https://cdn.iconscout.com/icon/free/png-256/sourcetree-3521724-2945168.png"
   alt="SourceTree"
   width="40"
   height="40"
