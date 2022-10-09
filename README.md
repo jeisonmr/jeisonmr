@@ -1,6 +1,6 @@
 
 <h1 align="center">Hello everyone! I'm Jeison 👋</h1>
-<hr>
+
 <h3 align="left">» Lenguages «</h3>
 <p align="left">
       <img
