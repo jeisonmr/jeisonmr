@@ -1,7 +1,7 @@
 
 <h1 align="center">Hello everyone! I'm Jeison 👋</h1>
 
-<h3 align="left">» Lenguages «</h3>
+<h3 align="left"> | Lenguages «</h3>
 <p align="left">
       <img
       src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png"
