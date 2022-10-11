@@ -19,7 +19,7 @@
       src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg"
       alt="JavaScript"
       width="30"
-      height="20"
+      height="30"
       />
       <img
         src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg"
