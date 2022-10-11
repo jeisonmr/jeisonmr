@@ -12,20 +12,20 @@
       <img
       src="https://cdn-icons-png.flaticon.com/512/732/732190.png"
       alt="CSS"
-      width="10"
-      height="10"
+      width="20"
+      height="20"
       />
       <img
       src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg"
       alt="JavaScript"
-      width="20"
+      width="30"
       height="20"
       />
       <img
         src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg"
         alt="Sass"
-        width="30"
-        height="30"
+        width="35"
+        height="35"
       />
 </p>
 <h3 align="left">» Framework «</h3>
@@ -33,8 +33,8 @@
 <img
   src="https://cdn.worldvectorlogo.com/logos/react-2.svg"
   alt="React"
-  width="10"
-  height="10"
+  width="40"
+  height="40"
 />
 <img
   src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png"
