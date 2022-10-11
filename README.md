@@ -109,13 +109,13 @@
   height="30"
 />
 </p>
-<h3 align="left"> | Design «</h3>
+<h3 align="left"> | Design</h3>
  <p align="left">
 <img
   src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
   alt="figma"
   width="30"
-  height="40"
+  height="30"
 />   <img
   src="https://cdn.worldvectorlogo.com/logos/adobe-xd-2.svg"
   alt="XD"
