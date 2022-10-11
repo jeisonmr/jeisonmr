@@ -18,14 +18,14 @@
       <img
       src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg"
       alt="JavaScript"
-      width="10"
-      height="10"
+      width="20"
+      height="20"
       />
       <img
         src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg"
         alt="Sass"
-        width="10"
-        height="10"
+        width="30"
+        height="30"
       />
 </p>
 <h3 align="left">» Framework «</h3>
