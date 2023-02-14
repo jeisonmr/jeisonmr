@@ -43,12 +43,11 @@
   <br>
   <table class="default" align="center">
     <tr>
-<td>
+<span>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeisonmr&theme=highcontrast&border_radius=5&locale=es&fire=EBCB24&dates=FFFFFF&sideNums=FFCB10&stroke=FFFFFF&currStreakNum=EBD91B&currStreakLabel=FFFFFF&sideLabels=FFFFFF&ring=EFB738&background=0,000000,262626" alt="mystreak"/>
-</td>
-<td></td>
-<td>
+</span>
+<span>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jeisonmr&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=ffbe01&icon_color=ffbe01&text_color=FFF&bg_color=0,000000,262626" alt="my Github Stats"/>
-</td>
+</span>
     </tr>
   </table>
