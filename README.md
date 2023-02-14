@@ -1,7 +1,6 @@
 <h1 align="center">Hello 👋</h1>
 <br>
   <h2 align="left">Skills</h2>
-  <hr>
   <br>
   <div align="center">
   <span align="left" >
@@ -41,7 +40,6 @@
   <p></p>
   <br>
   <h2 align="right">My GitHub Stats</h2>
-  <hr>
   <br>
   <table class="default" align="center">
     <tr>
