@@ -1,4 +1,4 @@
-<h1 align="center">👾 Hello I'm Jeison Muñoz 👋</h1>
+<h1 align="center">👾 Hi! I'm Jeison Muñoz 👋</h1>
 <br>
   <h2 align="left">Skills</h2>
   
@@ -50,4 +50,8 @@
 <span>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jeisonmr&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=ffbe01&icon_color=ffbe01&text_color=FFF&bg_color=0,000000,262626" alt="my Github Stats"/>
 </span>
+  <div align='left'>
+    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeisonmr&theme=dark" />
+</div>
+  
   </div>
