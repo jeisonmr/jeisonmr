@@ -2,28 +2,42 @@
 <br>
   <h2 align="left">Skills</h2>
   
-  - ![HTML](https://img.shields.io/badge/-HTML-000000?style=flat&logo=html5)
-  - ![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
-  - ![SASS](https://img.shields.io/badge/-Sass-000000?style=flat&logo=sass)
-  - ![JAVASCRIPT](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-  - ![TYPESCRIPT](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
+  ### Lenaguages
   
-  - ![REACT](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
-  - ![ASTRO](https://img.shields.io/badge/-Astro-000000?style=flat&logo=astro)
-  - ![BOOTSTRAP](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap)
-  - ![TAILDWINCSS](https://img.shields.io/badge/-TailwindCSS-000000?style=flat&logo=tailwindcss)
+  ![HTML](https://img.shields.io/badge/-HTML-000000?style=flat&logo=html5)
+  ![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
+  ![SASS](https://img.shields.io/badge/-Sass-000000?style=flat&logo=sass)
+  ![JAVASCRIPT](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+  ![TYPESCRIPT](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
   
-  - ![AZURE](https://img.shields.io/badge/-Azure-000000?style=flat&logo=azuredevops)
-  - ![GIT](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
-  - ![GITHUB](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github)
-  - ![SOURCETREE](https://img.shields.io/badge/-SourceTree-000000?style=flat&logo=sourcetree)
+  ### Frameworks
   
-  - ![WORDPRESS](https://img.shields.io/badge/-WordPress-000000?style=flat&logo=wordpress)
-  - ![WOOCOMMERCE](https://img.shields.io/badge/-WooCommerce-000000?style=flat&logo=woocommerce)
-  - ![ELEMMENTOR](https://img.shields.io/badge/-Elementor-000000?style=flat&logo=elementor)
-  - ![DIVI](https://img.shields.io/badge/-Divi-000000?style=flat&logo=divi)
+  ![REACT](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
+  ![ASTRO](https://img.shields.io/badge/-Astro-000000?style=flat&logo=astro)
+  ![BOOTSTRAP](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap)
+  ![TAILDWINCSS](https://img.shields.io/badge/-TailwindCSS-000000?style=flat&logo=tailwindcss)
   
-  - ![REACT](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
+  ### Management
+  
+  ![AZURE](https://img.shields.io/badge/-Azure-000000?style=flat&logo=azuredevops)
+  ![GIT](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
+  ![GITHUB](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github)
+  ![SOURCETREE](https://img.shields.io/badge/-SourceTree-000000?style=flat&logo=sourcetree)
+  ![JIRA](https://img.shields.io/badge/-Jira-000000?style=flat&logo=jira)
+  ![TRELLO](https://img.shields.io/badge/-Trello-000000?style=flat&logo=trello)
+  
+  ### CMS
+  
+  ![WORDPRESS](https://img.shields.io/badge/-WordPress-000000?style=flat&logo=wordpress)
+  ![WOOCOMMERCE](https://img.shields.io/badge/-WooCommerce-000000?style=flat&logo=woocommerce)
+  ![ELEMMENTOR](https://img.shields.io/badge/-Elementor-000000?style=flat&logo=elementor)
+  ![DIVI](https://img.shields.io/badge/-Divi-000000?style=flat&logo=divi)
+
+  ### UI-UX
+  
+  ![FIGMA](https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma)
+  ![ADOBEXD](https://img.shields.io/badge/-AdobeXd-000000?style=flat&logo=adobexd)
+  
   <br>
   <div align="center">
   <span align="left" >
