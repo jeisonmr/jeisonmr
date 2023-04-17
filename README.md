@@ -16,6 +16,7 @@
   ![ASTRO](https://img.shields.io/badge/-Astro-000000?style=for-the-badge&logo=astro)
   ![BOOTSTRAP](https://img.shields.io/badge/-Bootstrap-000000?style=for-the-badge&logo=bootstrap)
   ![TAILDWINCSS](https://img.shields.io/badge/-TailwindCSS-000000?style=for-the-badge&logo=tailwindcss)
+  ![MATERIALUI](https://img.shields.io/badge/-Material_UI-000000?style=for-the-badge&logo=mui)
   
   ### Management
   
@@ -31,12 +32,12 @@
   ![WORDPRESS](https://img.shields.io/badge/-WordPress-000000?style=for-the-badge&logo=wordpress)
   ![WOOCOMMERCE](https://img.shields.io/badge/-WooCommerce-000000?style=for-the-badge&logo=woocommerce)
   ![ELEMMENTOR](https://img.shields.io/badge/-Elementor-000000?style=for-the-badge&logo=elementor)
-  ![DIVI](https://img.shields.io/badge/-Divi-000000?style=for-the-badge&logo=divi)
+  ![DIVI](https://img.shields.io/badge/-Divi-000000?style=for-the-badge&logo=Divi)
 
   ### UI-UX
   
   ![FIGMA](https://img.shields.io/badge/-Figma-000000?style=for-the-badge&logo=figma)
-  ![ADOBEXD](https://img.shields.io/badge/-AdobeXd-000000?style=for-the-badge&logo=adobexd)
+  ![ADOBEXD](https://img.shields.io/badge/-Adobe_Xd-000000?style=for-the-badge&logo=adobexd)
 
   <br>
   <h2 align="right">My GitHub Stats</h2>
