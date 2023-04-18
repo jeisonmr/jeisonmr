@@ -2,7 +2,7 @@
 <br>
   <h2 align="left">Skills</h2>
   
-  ### Lenaguages
+  ### Languages
   
   ![HTML](https://img.shields.io/badge/-HTML-000000?style=for-the-badge&logo=html5)
   ![CSS](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=css3)
