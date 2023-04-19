@@ -1,5 +1,10 @@
 <h1 align="center">👾 Hi! I'm Jeison Muñoz 👋</h1>
 <br>
+
+  [![](https://visitcount.itsvg.in/api?id=jeisonmr&label=  &color=15&icon=8&pretty=true)](https://visitcount.itsvg.in)
+  [![Github](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github)](https://github.com/jeisonmr)
+  [![Linkedin](https://img.shields.io/badge/-Linkedin-1081c2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jeisonmr/)
+  
   <h2 align="left">Skills</h2>
   
   ### Languages
@@ -26,6 +31,8 @@
   ![SOURCETREE](https://img.shields.io/badge/-SourceTree-000000?style=for-the-badge&logo=sourcetree)
   ![JIRA](https://img.shields.io/badge/-Jira-000000?style=for-the-badge&logo=jira)
   ![TRELLO](https://img.shields.io/badge/-Trello-000000?style=for-the-badge&logo=trello)
+  ![NPM](https://img.shields.io/badge/-npm-000000?style=for-the-badge&logo=npm)
+
   
   ### CMS
   
