@@ -54,11 +54,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeisonmr&theme=highcontrast&border_radius=5&locale=es&fire=EBCB24&dates=FFFFFF&sideNums=FFCB10&stroke=FFFFFF&currStreakNum=EBD91B&currStreakLabel=FFFFFF&sideLabels=FFFFFF&ring=EFB738&background=0,000000,262626" alt="mystreak"/>
 </span>
   </div>
-  <div align="right">
+<!--   <div align="right">
 <span>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jeisonmr&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=ffbe01&icon_color=ffbe01&text_color=FFF&bg_color=0,000000,262626" alt="my Github Stats"/>
-</span>
-  <div align='left'>
+</span> -->
+  
+  <div align='right'>
     <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeisonmr&theme=dark" />
 </div>
   
