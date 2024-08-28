@@ -1,9 +1,54 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.7">
   <diagram name="Página-1" id="eiKndCnDcBao-k_U2fSR">
-    <mxGraphModel>
+    <mxGraphModel dx="874" dy="440" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="zjkaVoigPArm27jMDPHe-1" value="WORDPRESS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="310" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zjkaVoigPArm27jMDPHe-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="zjkaVoigPArm27jMDPHe-2" target="zjkaVoigPArm27jMDPHe-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zjkaVoigPArm27jMDPHe-2" value="POSTS&lt;div&gt;PUBLICACIONES&lt;/div&gt;&lt;div&gt;ENTRADAS&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zjkaVoigPArm27jMDPHe-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="zjkaVoigPArm27jMDPHe-5" target="zjkaVoigPArm27jMDPHe-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="115" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zjkaVoigPArm27jMDPHe-5" value="PAGES&lt;div&gt;PAGINAS&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zjkaVoigPArm27jMDPHe-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="zjkaVoigPArm27jMDPHe-9" target="zjkaVoigPArm27jMDPHe-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zjkaVoigPArm27jMDPHe-9" value="ATTACHMENT&lt;div&gt;ADJUNTOS&lt;/div&gt;&lt;div&gt;MEDIOS/MULTIMEDIA&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zjkaVoigPArm27jMDPHe-11" value="REVISIONES" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="439" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zjkaVoigPArm27jMDPHe-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zjkaVoigPArm27jMDPHe-14" target="zjkaVoigPArm27jMDPHe-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="630" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zjkaVoigPArm27jMDPHe-14" value="NAV MENU" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zjkaVoigPArm27jMDPHe-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.992;entryY=0.867;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zjkaVoigPArm27jMDPHe-11" target="zjkaVoigPArm27jMDPHe-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="499" y="122" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
