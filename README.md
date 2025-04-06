@@ -3,7 +3,7 @@
 
   <div align="center">
   
-  [![PORTAFOLIO](https://img.shields.io/badge/-PORTAFOLIO-000000?style=for-the-badge&logo=github)](https://github.com/jeisonmr) 
+  [![PORTAFOLIO](https://img.shields.io/badge/-PORTAFOLIO-000000?style=for-the-badge&logo=github)](https://jeisonmzr.netlify.app/) 
   [![Linkedin](https://img.shields.io/badge/-Linkedin-1081c2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jeisonmr/)
   </div>
   
