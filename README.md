@@ -1,6 +1,6 @@
 <div align="center">
 
-# ¡Hola! Soy Jeison Muñoz Rada 👋
+# ¡Hola! Soy Jeison 👋
 
 ### Desarrollador Web | Especialista en Frontend & WordPress
 
